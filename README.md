@@ -3,5 +3,5 @@ datasciencecoursera
 ##Heading
 #Bigger Heading
 ###Tiny Heading
-*List1
-*List2
+* List1
+* List2
